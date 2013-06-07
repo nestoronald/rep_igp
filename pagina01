@@ -5,6 +5,9 @@
     <style></style>
   </head>
   <body>
-  	<div class="header"></div>
+  	<div class="header">
+  		<h1>Primera pagina</h1>
+
+  	</div>
   </body>
 </html>
